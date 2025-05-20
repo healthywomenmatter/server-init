@@ -22,7 +22,7 @@ Before running the setup:
 
 ```bash
 git clone https://github.com/healthywomenmatter/server-init.git
-cd server-setup
+cd server-init
 ```
 
 ### 2. Make Scripts Executable
